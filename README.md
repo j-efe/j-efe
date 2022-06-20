@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Streamer Pixel Art](https://user-images.githubusercontent.com/99771587/174515824-7620b973-4189-42b8-b0de-03b88bd01c79.gif)
+
+
 <!--
 **j-efe/j-efe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
