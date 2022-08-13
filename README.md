@@ -2,7 +2,6 @@
 
 #### Me chamo João Felipe, mas se preferir, pode me chamar de *jotaefe*,  por favor, haha'
 
-# [[!Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
 - 💻 Desenvolvedor FullStack Jr.
 
