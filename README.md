@@ -11,4 +11,4 @@
 
 - 📌 Regularmente, ~~mas nem tanto assim~~, posto algo no meu Linkendin: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
-- 👀 Um fato interessante sobre mim: **Sou Cervejeiro**
+- 👀 Um fato interessante: **Faço Cerveja em casa**
