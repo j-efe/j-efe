@@ -1,7 +1,8 @@
 # Hello Stranger, Welcome! 😀.
 
-#### I'm João Felipe (John Phellip, haha), but if you prefer, you can call me *JF*,  please 👏
+ <img align="right"  alt="jf-pic" height="150"  src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwJ_VbB_2cnUFGjGi3AU2ggQ">
 
+#### I'm João Felipe (John Phellip, haha), but if you prefer, you can call me *JF*,  please 👏
 
 
 - 💻 FullStack Developer Jr;
