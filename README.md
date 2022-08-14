@@ -9,7 +9,7 @@
 
 - 🖊⏳ I'm currently studying at [Cubos Academy](https://github.com/cubos-academy);
 
-- 📆 Everyday trying to study and improve my skills even more!;
+- 📆 Every day studying and improving my skills even more!;
 
 - 👀 Really very excited for my first opportunity;
 
