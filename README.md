@@ -17,4 +17,4 @@
 
 - 📌 Regularly, ~~but not so much~~, put something on my Linkendin: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
-- 🧩 About me: I really like Beer, Coffee, Run, My Dogs, Animes, VideoGames, good BoardGames and other nerdy stuff, yeah, i'm nerd.
+- 🧩 About me: I really like Beer, Coffee, Run, My Dogs, Animes, VideoGames, good BoardGames and other nerdy stuff, and yeah, i'm nerd.
