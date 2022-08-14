@@ -25,4 +25,4 @@
 
 ### Or:
 
-📬 [!joaofnsantos@gmail.com](joaofnsantos@gmail.com);
+📬 [joaofnsantos@gmail.com](joaofnsantos@gmail.com);
