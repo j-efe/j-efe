@@ -25,4 +25,4 @@
 
 ### Or:
 
-- 📬 GMAIl: joaofnsantos@gmail.com
+- 📬: joaofnsantos@gmail.com
