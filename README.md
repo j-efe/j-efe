@@ -13,7 +13,7 @@
 
 - 👀 Really very excited for my first opportunity;
 
-- 💬 You can ask me about  **JavaScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
+- 💬 You can ask me about  **JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
 
 - 📌 Regularly i put something on my Linkendin: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
@@ -28,6 +28,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="JF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JF-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />        
   <img align="center" alt="JF-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
