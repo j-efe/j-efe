@@ -7,7 +7,7 @@
 
 - 💻 FullStack Developer Jr;
 
-- 🖊⏳ I'm currently studying at [Cubos Academy](https://github.com/cubos-academy);
+- 🖊⏳ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
 
 - 📆 Every day studying and improving my skills even more!;
 
@@ -15,7 +15,7 @@
 
 - 💬 You can ask me about  **JavaScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
 
-- 📌 Regularly, ~~but not so much~~, put something on my Linkendin: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
+- 📌 Regularly i put something on my Linkendin: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
 - 🧩 About me: I really like Beer, Coffee, Run, My Dogs, Animes, VideoGames, good BoardGames and other nerdy stuff, and yeah, i'm nerd.
 
