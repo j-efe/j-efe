@@ -13,7 +13,7 @@
 
 - 👀 Really very excited for my first opportunity;
 
-- 💬 You can ask me about  **JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
+- 💬 You can ask me about  **ReactJS, JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
 
 - 📌 Regularly i put something on my LinkedIn: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
 
