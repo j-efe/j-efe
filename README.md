@@ -13,7 +13,7 @@
 
 - 💬 You can ask me about  **Wordpress, ReactJS, JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
 
-- 📌 Regularly i put something on my LinkedIn: [j-efe](https:/https://www.linkedin.com/in/j-efe/)
+- 📌 Regularly i put something on my LinkedIn: [j-efe](https://www.linkedin.com/in/j-efe/)
 
 - 🧩 About me: I really like Beer, Coffee, Run, My Dogs, Animes, VideoGames, good BoardGames and other nerdy stuff, and yeah, i'm nerd.
 
