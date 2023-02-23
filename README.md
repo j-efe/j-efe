@@ -11,22 +11,21 @@
 
 - 📆 Every day studying and improving my skills even more!;
 
-- 👀 Really very excited for my first opportunity;
+- 💬 You can ask me about  **Wordpress, ReactJS, JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
 
-- 💬 You can ask me about  **ReactJS, JavaScript, TypeScript, HTML, CSS, SQL, Node.JS**, i will do my best to answer 😁;
-
-- 📌 Regularly i put something on my LinkedIn: [j-efe](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/)
+- 📌 Regularly i put something on my LinkedIn: [j-efe](https:/https://www.linkedin.com/in/j-efe/)
 
 - 🧩 About me: I really like Beer, Coffee, Run, My Dogs, Animes, VideoGames, good BoardGames and other nerdy stuff, and yeah, i'm nerd.
 
 
 ## If you want to talk to me:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-felipe-jf-3685bb231/) - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5586988251660) - [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaofnsantos@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/https://www.linkedin.com/in/j-efe/) - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5586988251660) - [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaofnsantos@gmail.com) 
 
 ## My Skills:
   
   <div style="display: inline_block"><br>
+  <img align="center" alt="JF-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="JF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JF-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />        
   <img align="center" alt="JF-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
