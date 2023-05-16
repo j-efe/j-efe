@@ -38,11 +38,11 @@
 
 ##
 
-
-<!-- <div align= "center">
-  <a href="https://github.com/j-efe">
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api?username=j-efe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-efe&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+<div>
+  <a href="https://github.com/diasrafael1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diasrafael1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasrafael1&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diasrafael1&theme=tokyonight" alt="mystreak"/>
+</div>
   
   
