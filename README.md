@@ -40,9 +40,9 @@
 
 <div>
   <a href="https://github.com/diasrafael1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-efe&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=j-efe&theme=tokyonight" alt="mystreak"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-efe&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=j-efe&theme=tokyonight" alt="mystreak"/>
 </div>
   
   
